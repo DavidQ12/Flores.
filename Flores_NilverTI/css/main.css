@@ -23,7 +23,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url('img/strawberry.png'); /* Asegúrate de que esta ruta sea correcta */
+  background-image: url('img/strawberry.jpg'); /* Asegúrate de que esta ruta sea correcta */
   background-size: contain;
   background-repeat: no-repeat;
   animation: move 10s linear infinite;
